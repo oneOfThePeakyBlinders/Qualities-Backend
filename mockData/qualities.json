@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed471198",
+        "name": "Cool",
+        "color": "primary"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471100",
+        "name": "Weird",
+        "color": "secondary"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711012",
+        "name": "Nerd",
+        "color": "success"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471101",
+        "name": "Junkie",
+        "color": "danger"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471102",
+        "name": "Dork",
+        "color": "info"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471103",
+        "name": "Alpha-Male",
+        "color": "dark"
+    }
+]
